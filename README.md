@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-#### I'm Aleksander, a Software engineer working on quantum computing, ML/AI, HPC and web services
+#### I'm Aleksander, a software engineer working on quantum computing, ML/AI, HPC and cloud platforms
 
 **Current postiton:**<br>
-Quantum software engineer at [PASQAL](https://pasqal.com)
+Quantum software techincal lead at [PASQAL](https://pasqal.com).
+At Pasqal over the years I've worked on our quantum libraries, emulation (numerical simulation of quantum systems), cloud platform and HPC.
 
-See our [GitHub](https://github.com/pasqal-io)
+See our [GitHub](https://github.com/pasqal-io), especially out programming language [Qadence](https://github.com/pasqal-io/Qadence).
 
 Connect with me on [LinkedIn](https://linkedin.com/in/awennersteen)<br>
-Web [homepage](https://awennersteen.com)<br>
+Read my [homepage](https://awennersteen.com)<br>
 Email [awennersteen@gmail.com](mailto:awennersteen@gmail.com)<br>
