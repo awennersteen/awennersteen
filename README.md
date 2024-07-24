@@ -6,7 +6,7 @@
 Quantum software techincal lead at [PASQAL](https://pasqal.com).
 At Pasqal over the years I've worked on our quantum libraries, emulation (numerical simulation of quantum systems), cloud platform and HPC.
 
-See our [GitHub](https://github.com/pasqal-io), especially out programming language [Qadence](https://github.com/pasqal-io/Qadence).
+See our [GitHub](https://github.com/pasqal-io), especially our programming language [Qadence](https://github.com/pasqal-io/Qadence).
 
 Connect with me on [LinkedIn](https://linkedin.com/in/awennersteen)<br>
 Read my [homepage](https://awennersteen.com)<br>
